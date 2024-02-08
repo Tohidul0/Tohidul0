@@ -2,7 +2,7 @@
 #### I create websites, love solving coding puzzles, and have a degree in computer science.
 CSE graduate with a passion for web development and competitive programming. Always eager to learn and explore new technologies..
 
-Skills: C/C++/ REACT / JS / HTML / CSS/BOOTSTRAP/TAILWIND
+Skills: C / C++ / JS / REACT / REDUX / NODEJS / EXPRESSJS / HTML / CSS /BOOTSTRAP / TAILWIND
 
 - 🌱 I’m currently learning Redux & ExpressJs 
 
