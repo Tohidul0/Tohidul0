@@ -1,21 +1,54 @@
-### Hi there 👋, my name is Mohammad Tohidul Alam
-#### I create websites, love solving coding puzzles, and have a degree in computer science.
-CSE graduate with a passion for web development and competitive programming. Always eager to learn and explore new technologies..
+# Hi there 👋, I'm Mohammad Tohidul Alam
 
-Skills: C / C++ / JS / REACT / REDUX / NODEJS / EXPRESSJS / HTML / CSS /BOOTSTRAP / TAILWIND
+### A passionate web developer and coding enthusiast with a degree in Computer Science.
 
-- 🌱 I’m currently learning NestJS & TypeScript 
+I'm a CSE graduate with a passion for **web development** and **competitive programming**. I love to learn and explore new technologies that can solve real-world problems.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tohidul0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-tohidul-alam-361115265//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009415096366)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Akilakil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Tohidul45/)  
+### 🌱 Currently Learning
+- **NestJS** & **TypeScript**
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tohidul0)](https://github.com/ryo-ma/github-profile-trophy)
+### ⚡ Tech Stack:
+- **Languages**: C, C++, JavaScript
+- **Frontend**: React, Redux, HTML, CSS, Bootstrap, Tailwind
+- **Backend**: Node.js, Express.js
+- **Others**: Git, MySQL, REST APIs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tohidul0)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohidul0&show_icons=true&count_private=true)  
+### 📫 Connect with me:
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Tohidul0)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Tohidul0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tohidul-alam-361115265/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009415096366)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?&style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Akilakil)
+[![Leetcode](https://img.shields.io/badge/LeetCode-%23000000.svg?&style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Tohidul45/)
 
+---
+
+### 🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tohidul0&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tohidul0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tohidul0&show_icons=true&theme=vision-friendly-dark&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tohidul0&theme=dark)
+  
+</div>
+
+---
+
+<a href='https://docs.github.com/en/developers'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a>
