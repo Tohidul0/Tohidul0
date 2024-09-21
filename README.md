@@ -1,10 +1,25 @@
-# Hi there 👋, I'm Mohammad Tohidul Alam
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Hey,+There!;I+am+Tohidul+Alam;A+Software+Engineer&center=true&width=500&height=45" alt="Tohidul0">
+</p>
 
-### A passionate web developer and coding enthusiast with a degree in Computer Science.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Tohidul0.svg?style=social&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Tohidul0&style=plastic" />
+  
+</p>
+<br/>
 
-I'm a CSE graduate with a passion for **web development** and **competitive programming**. I love to learn and explore new technologies that can solve real-world problems.
 
----
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<p align=justify>
+I am a dedicated software engineer specializing in the MERN stack (MongoDB, Express, React, Node.js), with expertise in API integration using NestJS and database management with MySQL. I excel in teamwork and thrive in collaborative environments, always eager to learn and grow quickly. My problem-solving skills are honed through competitive programming, allowing me to tackle real-world challenges efficiently. I’m passionate about delivering high-quality solutions and continuously improving my craft.
+
+Currently, I'm focusing on OTA (Online Travel Agency), Sabre, Zenith, and travel API integration, alongside my ongoing work with the MERN stack and Node.js, expanding my expertise in the travel industry and developing seamless solutions for booking and management systems.
+</p>
+
 
 ### 🌱 Currently Learning
 - **NestJS** & **TypeScript**
@@ -34,7 +49,48 @@ I'm a CSE graduate with a passion for **web development** and **competitive prog
 
 ---
 
+
+### 🏆 GitHub Trophies:
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tohidul0&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Statistics
+
+Here’s a snapshot of my coding activity and language usage on GitHub:
+
+<p align="center">
+  <a href="https://github.com/Tohidul0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tohidul0&theme=dark" alt="GitHub Contribution"/>
+  </a>
+  <a href="https://github.com/Tohidul0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tohidul0&theme=dark" alt="GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Tohidul0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tohidul0&theme=dark" alt="GitHub Contribution"/>
+  </a>
+</p>
+
+## Current Status
+
+I'm currently focused on improving my consistency in coding and contributing to open-source projects. Here's my GitHub streak:
+
+<p align="center">
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Tohidul0&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=45%2C070076%2C000000" alt="Tohidul0" />
+</p>
+  
+</div>
+
 ### 📫 Connect with me:
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Tohidul0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tohidul-alam-361115265/)
@@ -42,28 +98,6 @@ I'm a CSE graduate with a passion for **web development** and **competitive prog
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?&style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Akilakil)
 [![Leetcode](https://img.shields.io/badge/LeetCode-%23000000.svg?&style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Tohidul45/)
 
----
-
-### 🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tohidul0&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tohidul0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tohidul0&show_icons=true&theme=vision-friendly-dark&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tohidul0&theme=dark)
-  
 </div>
 
 ---
-
-<a href='https://docs.github.com/en/developers'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a>
