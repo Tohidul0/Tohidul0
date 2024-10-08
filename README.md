@@ -22,7 +22,7 @@ Currently, I'm focusing on OTA (Online Travel Agency), Sabre, Zenith, and travel
 
 
 ### 🌱 Currently Learning
-- **NestJS** & **TypeScript**
+- **GraphQL**
 
 ---
 
