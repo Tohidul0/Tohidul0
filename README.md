@@ -21,8 +21,7 @@ Currently, I'm focusing on OTA (Online Travel Agency), Sabre, Zenith, and travel
 </p>
 
 
-### 🌱 Currently Learning
-- **GraphQL**
+
 
 ---
 
