@@ -15,9 +15,13 @@
 
 
 <p align=justify>
-I am a dedicated software engineer specializing in the MERN stack (MongoDB, Express, React, Node.js), with expertise in API integration using NestJS and database management with MySQL. I excel in teamwork and thrive in collaborative environments, always eager to learn and grow quickly. My problem-solving skills are honed through competitive programming, allowing me to tackle real-world challenges efficiently. I’m passionate about delivering high-quality solutions and continuously improving my craft.
+I’m a dedicated Full-Stack Software Engineer with strong experience in the MERN stack, along with advanced backend development skills using NestJS and MySQL. I focus on building reliable web applications, designing scalable backend systems, and creating clean, well-documented APIs.
 
-Currently, I'm focusing on OTA (Online Travel Agency), Sabre, Zenith, and travel API integration, alongside my ongoing work with the MERN stack and Node.js, expanding my expertise in the travel industry and developing seamless solutions for booking and management systems.
+My experience includes working on travel booking and B2B platforms, where I integrated APIs from providers like Zenith, Sabre, and Airastra. I collaborated with frontend teams to build responsive user interfaces using React.js and MUI, handled API connections, and resolved technical issues efficiently.
+
+I have also led full development teams on several client projects. For a music protection platform, I managed backend architecture, database design, and deployment using VPS and Nginx. In a Doctor Portal project, I led the entire development team, overseeing frontend and backend work, implementing appointment scheduling, integrating Stripe and PayPal payments with webhook handling, and adding audio/video calling with recording using WebRTC. Additionally, I designed and built the backend and database systems for a mobile app targeting iOS, focusing on performance and scalability.
+
+With over 250 competitive programming problems solved, I bring strong problem-solving skills and a structured approach to development. I enjoy working in collaborative environments, learning new technologies, and contributing to projects that deliver real value to users.
 </p>
 
 
